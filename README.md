@@ -1,4 +1,4 @@
-# Video-Based-Sign-Language-Gesture-Using-CNN-RNN-Model
+# Video Based Sign Language Gesture Using CNN-RNN Model
 
 
 ## Requirements
