@@ -3,6 +3,7 @@
 
 ## Requirements
 * Set up a Virtual Environment using Anaconda
+* Install Python 3.7 
 * Install opencv
 * Install tensorflow:
   ```shell
